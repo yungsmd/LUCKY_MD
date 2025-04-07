@@ -1,5 +1,5 @@
 {
-  "name": "✧⁠LUCKY_MD✧ MULT DEVICE",
+  "name": "OLUTHE",
   "description": "Lucky Whatsapp device bot made by FrediEzra to help Whatsapp users to enjoy while helping..",
   "keywords": [
     "bot",
@@ -76,7 +76,7 @@
     },
     "BOT_NAME": {
       "description": "you must give a name for you bot uhh??!!",
-      "value": "✧⁠LUCKY_MD✧",
+      "value": "OLUTHE",
       "required": false 
     },
     "PUBLIC_MODE": {
@@ -86,22 +86,22 @@
     },
     "HEROKU_API_KEY": {
       "description": "Insert your Heroku API key (required)",
-      "value": "",
+      "value": "HRKU-22cf3c12-00c2-4a75-8e76-f022f84578b6",
       "required": true
     },
     "HEROKU_APP_NAME": {
       "description": "Insert your Heroku app name (required)",
-      "value": "",
+      "value": "given23",
       "required": true
     },
     "SESSION_ID": {
       "description": "Enter your session ID, the code you receive after scanning the QR code",
-      "value": "",
+      "value": "eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoid0ExdFFUZ1laYXE4QXloZXMrOXhJejM4NzBMMkVNV29lMVljVGpIOVhYST0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiQ09tV0RZclZXK2ZMU1dZWDlrcklyci9UZU4vZUlzc2E2M0RKblVNS2d4MD0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJhSUNNeU9mWG1ROWFNOGdZaHBYUHVMSVZxZlQ3Z2xFSm1xVzFPRmdJVEZjPSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJRUGJ2L1Y0TEw3b1kxUnUxTlU5Uk4zSG41MUhxRmNQSTI1ck1PUFFic1JvPSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IktLYmFLOFBObDFHQ1l4eXhsREU5emJCRWJKVE9CMVlWV2I5RG9QQzBPVmc9In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6Ikplb21ia1V3QjZhVTFGMEp3bHpRQ1NWOUZoTXV5TlcxTm9CbkN4K1lwa009In19LCJzaWduZWRQcmVLZXkiOnsia2V5UGFpciI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiNkFMNmJlMGkvbUg1QkxBcFhqRkZpRGFvb1krZlA4VXl5M0UwdjN4L3drRT0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiTWlkWFpKR3g4V2dCaHNZTXByeUVBbElPRG9ab2dvY2hSei9RSmpPbi9VZz0ifX0sInNpZ25hdHVyZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IjBPU0txTEc1Y2VKYlg1QnhkSGVaUU5oKzBQTGcwdlZUQVliYndCcCsrVEFiMzE5L0FMV1J5MG9vUDVxMTkrVG9YTnVRTEJlZlN1TTVtd2lGNHJ1cEJRPT0ifSwia2V5SWQiOjF9LCJyZWdpc3RyYXRpb25JZCI6MjExLCJhZHZTZWNyZXRLZXkiOiJSWkl2NGVKVDNYS2d6TFRsUzlzblU1WTJPNzBrS0ZwR2VTd0d0SitPUDc0PSIsInByb2Nlc3NlZEhpc3RvcnlNZXNzYWdlcyI6W10sIm5leHRQcmVLZXlJZCI6MzIsImZpcnN0VW51cGxvYWRlZFByZUtleUlkIjozMiwiYWNjb3VudFN5bmNDb3VudGVyIjowLCJhY2NvdW50U2V0dGluZ3MiOnsidW5hcmNoaXZlQ2hhdHMiOmZhbHNlfSwiZGV2aWNlSWQiOiJMVURSakZCcVI5ZTd0MWp4OHY1VDdBIiwicGhvbmVJZCI6IjczM2VkMTdjLTYxOGYtNDg5YS1hODVmLTgxN2M0MGM1N2EyMCIsImlkZW50aXR5SWQiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJQTHNYWG42aDM3OUIySUZLaFJsQXg2azRoME09In0sInJlZ2lzdGVyZWQiOnRydWUsImJhY2t1cFRva2VuIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiMTVuY0FERVNjd1o4NmtsZHNqNmtTVlFNQ080PSJ9LCJyZWdpc3RyYXRpb24iOnt9LCJwYWlyaW5nQ29kZSI6IkU0UDg3QzU3IiwibWUiOnsiaWQiOiIyNTQ3NDI5NjYzODc6MjJAcy53aGF0c2FwcC5uZXQifSwiYWNjb3VudCI6eyJkZXRhaWxzIjoiQ01USDdvZ0JFTENzMEw4R0dBY2dBQ2dBIiwiYWNjb3VudFNpZ25hdHVyZUtleSI6Ikd6ZUxxeGQ3MnkwcHgyd043V3hNOHlCZmhoby83TjlBTWY0ekR6UGVQVnc9IiwiYWNjb3VudFNpZ25hdHVyZSI6ImlONWU2Ty92VndlRStoY2lETzZhbzFzZnVZOHFoTkZnR2EvV2M4NnZBUWplRUhzTURUc0wxV3o5TjRmSVN1TklTbUtPc2xtU01lTjNTUUdpbXhEckJnPT0iLCJkZXZpY2VTaWduYXR1cmUiOiIyemFzQklSZGhmcUR3WGpMMm9EQ0sxWHR2RmV3K2grZW11NGszNExjWjhXb1duaGtoSXhSZTBJZXFRc0NkZmVKbE5yckE4Q2Jwd1dUa3d0cFdLU0pDdz09In0sInNpZ25hbElkZW50aXRpZXMiOlt7ImlkZW50aWZpZXIiOnsibmFtZSI6IjI1NDc0Mjk2NjM4NzoyMkBzLndoYXRzYXBwLm5ldCIsImRldmljZUlkIjowfSwiaWRlbnRpZmllcktleSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IkJSczNpNnNYZTlzdEtjZHNEZTFzVFBNZ1g0WWFQK3pmUURIK013OHozajFjIn19XSwicGxhdGZvcm0iOiJhbmRyb2lkIiwibGFzdEFjY291bnRTeW5jVGltZXN0YW1wIjoxNzQ0MDQ5NzI2LCJteUFwcFN0YXRlS2V5SWQiOiJBQUFBQUN1TCJ9",
       "required": true
     },
     "OWNER_NAME": {
       "description": "don't you have a name bro.Insert your name here!!",
-      "value": "FrediEzra",
+      "value": "Given",
       "required": false
     },
     "URL": {
@@ -116,18 +116,18 @@
     },
     "NUMERO_OWNER": {
       "description": "Your phone number (exclude '+' and area code, e.g., '255752593977')",
-      "value": "255752593977",
+      "value": "254742966387",
       "required": false
     },
     "WARN_COUNT": {
       "description": "Set the warning limit for warning commands",
-      "value": "5",
+      "value": "3",
       "required": false
     },
     "STARTING_BOT_MESSAGE": {
       "description": "Set 'yes' to display a starting bot message or 'no' to disable it",
       "value": "no",
-      "required": true
+      "required": false 
     },
     "PRESENCE": {
       "description": "Mark your presence: 1 for online, 2 for typing, 3 for recording, or leave blank for real state",
