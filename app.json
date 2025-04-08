@@ -1,5 +1,5 @@
 {
-  "name": "✧⁠LUCKY_MD✧ MULT DEVICE",
+  "name": "OLUTHE",
   "description": "Lucky Whatsapp device bot made by FrediEzra to help Whatsapp users to enjoy while helping..",
   "keywords": [
     "bot",
@@ -76,7 +76,7 @@
     },
     "BOT_NAME": {
       "description": "you must give a name for you bot uhh??!!",
-      "value": "✧⁠LUCKY_MD✧",
+      "value": "OLUTHE",
       "required": false 
     },
     "PUBLIC_MODE": {
@@ -86,7 +86,7 @@
     },
     "HEROKU_API_KEY": {
       "description": "Insert your Heroku API key (required)",
-      "value": "",
+      "value": "HRKU-22cf3c12-00c2-4a75-8e76-f022f84578b6",
       "required": true
     },
     "HEROKU_APP_NAME": {
@@ -96,12 +96,12 @@
     },
     "SESSION_ID": {
       "description": "Enter your session ID, the code you receive after scanning the QR code",
-      "value": "",
+      "value": "eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiZ0Q2ZXFxcVFROXdJMW1aaVVZNkdOWWxROTFFaUpGbTZEOUhXTkJPRk8wWT0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiMW5RdEQ3VUxCT2hjZVlrQ0hwOWx1Tm5JaGVsWEE4eXRXYnFVNUgrMWdXUT0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJrRUNKOFZVUVBZZDNrUlNOMnNWS1pmQitqQWl0OExhQUF2TXhjQUZGa2xnPSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJUbjUrSW5yUGdNeHRDMzFiWGwweklmdkxObGFBY1J6ZzRLM1FJTU1lam53PSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IlFBL1Q4SjVvRWowSVlRc3pHWWJqZ3U1VnhDMGY0eG5pdE54V2lxRzl1bVk9In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IlNqR1BZL0tmSVZzODRTQ09ZTUQ0elR0NDlwMzY5R1BqMnJodmszcDZnZ289In19LCJzaWduZWRQcmVLZXkiOnsia2V5UGFpciI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiV0piY202dzNZYjNmQ3lhVy9RZ1dCWHVMRDlybVJBc1ZuYXRlcFVHNlNtaz0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoieE4xR254QUVmL05tRTVrZ0o2a09STFhpWE9YNjBYRE5scFIwV053Tjdnbz0ifX0sInNpZ25hdHVyZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6Im5mYkZ0c09tUCs3WHFJd2QyYjN4SFpLOTlsVnR0aDRvOEJCbnZJWXdvaUFhMHQ2QmlpZmh5N2VVblZiVkdKQmlGOExTYm5jVUEzZFVUMWV5ZDJXc0R3PT0ifSwia2V5SWQiOjF9LCJyZWdpc3RyYXRpb25JZCI6MjI0LCJhZHZTZWNyZXRLZXkiOiI4VjJid0hkWkpmaHRkUC9KTUM2TXEwcHNPeDJmMDluczBLa0poZDc1VmVjPSIsInByb2Nlc3NlZEhpc3RvcnlNZXNzYWdlcyI6W10sIm5leHRQcmVLZXlJZCI6MzEsImZpcnN0VW51cGxvYWRlZFByZUtleUlkIjozMSwiYWNjb3VudFN5bmNDb3VudGVyIjowLCJhY2NvdW50U2V0dGluZ3MiOnsidW5hcmNoaXZlQ2hhdHMiOmZhbHNlfSwiZGV2aWNlSWQiOiJLaHg3d0RBRlNZNkNHd1RUdGI4STFRIiwicGhvbmVJZCI6IjJkZjgwYWZkLTEwODYtNGQ4Ni04NDhlLTJjNGE0MDZmNDI2YyIsImlkZW50aXR5SWQiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJiN2tqemRpQ3VEbk9GMCtEVDBoeTFScWIrZzQ9In0sInJlZ2lzdGVyZWQiOnRydWUsImJhY2t1cFRva2VuIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiMFZZMXZMa3FtSktqeFZyR3cwM1VxeXc0ODdnPSJ9LCJyZWdpc3RyYXRpb24iOnt9LCJwYWlyaW5nQ29kZSI6IlFKR0VOQUZQIiwibWUiOnsiaWQiOiIyNTQ3MDE3NjQxNzI6NUBzLndoYXRzYXBwLm5ldCJ9LCJhY2NvdW50Ijp7ImRldGFpbHMiOiJDTGVtMDUwQkVOcnowcjhHR0FFZ0FDZ0EiLCJhY2NvdW50U2lnbmF0dXJlS2V5IjoiTGhvakNtRDVIeWJMMmJzNzgzd0s5bkhjWjJXYXF5Nm9MOE0xRGFOVVltQT0iLCJhY2NvdW50U2lnbmF0dXJlIjoidjIxQlc3UC9IYjJLY0t3QkpESUhZNy9ZbmtVWWdxZUIxdVUweU5vNVUxUndNeFlraXh1dm13K2R1Z0w3MEwvUFIyay9XMVFqMUliVkJpaTZ2VVUzQ2c9PSIsImRldmljZVNpZ25hdHVyZSI6Im1lZXhqNjVSY0plVzcxbGZtZG4zRC9HZzYzUk14R1UxdEVtRkYyTUl3dWN3Wktxd3pUSHI3UUszU1NPRWlJZS9uekt5czhJOEp3MkVqYThLYzVYekF3PT0ifSwic2lnbmFsSWRlbnRpdGllcyI6W3siaWRlbnRpZmllciI6eyJuYW1lIjoiMjU0NzAxNzY0MTcyOjVAcy53aGF0c2FwcC5uZXQiLCJkZXZpY2VJZCI6MH0sImlkZW50aWZpZXJLZXkiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJCUzRhSXdwZytSOG15OW03Ty9OOEN2WngzR2RsbXFzdXFDL0ROUTJqVkdKZyJ9fV0sInBsYXRmb3JtIjoiYW5kcm9pZCIsImxhc3RBY2NvdW50U3luY1RpbWVzdGFtcCI6MTc0NDA5MTYyMywibXlBcHBTdGF0ZUtleUlkIjoiQUFBQUFLVWoifQ==",
       "required": true
     },
     "OWNER_NAME": {
       "description": "don't you have a name bro.Insert your name here!!",
-      "value": "FrediEzra",
+      "value": "tripple w",
       "required": false
     },
     "URL": {
@@ -116,7 +116,7 @@
     },
     "NUMERO_OWNER": {
       "description": "Your phone number (exclude '+' and area code, e.g., '255752593977')",
-      "value": "255752593977",
+      "value": "254701764172",
       "required": false
     },
     "WARN_COUNT": {
